@@ -1,5 +1,6 @@
 ## $Id$
-# Maintainer: TheKit <nekit1000 at gmail.com>
+# Contributor TheKit <nekit1000 at gmail.com>
+# Contributor Alexey Andreyev <aa13q@ya.ru>
 # Maintainer: James Kittsmiller (AJSlye) <james@nulogicsystems.com>
 
 pkgname=nemo-qml-plugin-time-git
